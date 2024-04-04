@@ -8,5 +8,5 @@ I worked on a project focused on completing a carbon emissions analysis and anal
 This experience confirmed my passion for addressing sustainability challenges, and I'm enthusiastic about applying these skills to BCG's Climate & Sustainability team to contribute to meaningful solutions.
 
 
-**BCG Job Simulation Certification of Completion
+**BCG Job Simulation Certification of Completion**
 ![certificate of completion](https://github.com/martinktay/bcg-consulting-climate-and-sustainability-job-simulation/assets/15663589/53b4ed75-97ad-4b81-bb59-93ef5f393b4c)
