@@ -1,5 +1,5 @@
 
-#BCG Climate and Sustainability Job Simulation
+# BCG Climate and Sustainability Job Simulation
 
 I recently participated in BCG's job simulation on the Forage platform, gaining valuable insights into what it's like to be part of BCG's Climate & Sustainability team. 
 
